@@ -1,2 +1,2 @@
-class Child1Class {
+class CourseClass {
 }

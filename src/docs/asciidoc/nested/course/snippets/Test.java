@@ -1,2 +1,2 @@
-class Child2Class {
+class NextedCourseClass {
 }
