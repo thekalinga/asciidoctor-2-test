@@ -1,5 +1,4 @@
-@Log4j2
-class RootIncludedTestClass {
+class Child2IncludedTestClass {
   private Runnable work = () -> {
     //@formatter:off
     try {

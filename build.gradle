@@ -22,5 +22,12 @@ asciidoctorj {
 }
 
 asciidoctor {
-  baseDirFollowsSourceDir()
+//  useIntermediateWorkDir()
+//  baseDirIsRootProjectDir()
+//  baseDirFollowsSourceDir()
+  baseDirIsProjectDir()
+}
+
+asciidoctorPdf {
+  baseDirIsProjectDir()
 }

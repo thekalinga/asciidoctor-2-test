@@ -1,0 +1,18 @@
+= Test
+:doctype: book
+:source-highlighter: rouge
+:rouge-theme: github
+:rouge-style: github
+:idprefix:
+:idseparator: -
+:imagesdir: images
+:toc:
+:docinfo: html
+:sourcedir: snippets
+
+== Embed test
+
+[source,java,indent=0]
+----
+include::{sourcedir}/Test.java[]
+----
