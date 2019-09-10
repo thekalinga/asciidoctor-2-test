@@ -1,9 +1,0 @@
-== Chapter2
-
-This java is empty
-
-[source,java]
-----
-include::examples/Test.java[]
-----
-

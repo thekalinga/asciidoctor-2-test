@@ -23,21 +23,20 @@ asciidoctorj {
 
 asciidoctor {
   baseDirFollowsSourceDir()
-  sources{
-    include 'test.adoc'
-  }
+//  sources {
+//    include '**/*.adoc'
+//  }
 }
 
-asciidoctorPdf{
+asciidoctorPdf {
   useIntermediateWorkDir()
   baseDirFollowsSourceDir()
-  sources{
-    include 'test.adoc'
-  }
- resources{
-        from(sourceDir) {
-            include '**'
-        }
+//  sources {
+//    include '**/*.adoc'
+//  }
+  resources {
+    from(sourceDir) {
+      include '**'
     }
-
+  }
 }

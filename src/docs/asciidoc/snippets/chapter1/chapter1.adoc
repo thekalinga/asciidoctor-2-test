@@ -1,8 +1,0 @@
-== Chapter1
-
-[source,java]
-----
-include::examples/Test.java[]
-----
-
-
