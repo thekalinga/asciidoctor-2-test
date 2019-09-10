@@ -1,0 +1,13 @@
+= Test
+:title-page-background-image: none
+:sourcedir: './snippets'
+:doctype: book
+:source-highlighter: rouge
+
+Highlight test
+
+[source,java,indent=0]
+----
+class TestClass {
+}
+----
