@@ -1,19 +1,3 @@
-= Test
-:doctype: book
-:source-highlighter: rouge
-:rouge-theme: github
-:rouge-style: github
-:idprefix:
-:idseparator: -
-:imagesdir: images
-:toc:
-:docinfo: html
-:sourcedir: ./snippets
-
-== Inline test
-
-[source,java,indent=0]
-----
 @Log4j2
 class CompletableFutureTests {
   private Runnable work = () -> {
@@ -77,18 +61,3 @@ class CompletableFutureTests {
 
   // TODO: Add tests
 }
-----
-
-== Embed test
-
-[source,java,indent=0]
-----
-include::{sourcedir}/Test.java[]
-----
-
-== Line highlight test
-
-[source,java,indent=0,highlight="2-3"]
-----
-include::{sourcedir}/Test.java[]
-----
