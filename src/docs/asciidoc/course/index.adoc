@@ -1,14 +1,6 @@
-== Course
-:doctype: book
-:source-highlighter: rouge
-:rouge-theme: github
-:rouge-style: github
-:idprefix:
-:idseparator: -
-:imagesdir: images
-:toc:
-:docinfo: html
-:sourcedir: snippets
+= Course
+
+== Source
 
 [source,java]
 ----

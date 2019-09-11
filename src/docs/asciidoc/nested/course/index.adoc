@@ -1,18 +1,10 @@
-= Nested
-:doctype: book
-:source-highlighter: rouge
-:rouge-theme: github
-:rouge-style: github
-:idprefix:
-:idseparator: -
-:imagesdir: images
-:toc:
-:docinfo: html
-:sourcedir: snippets
+= Nested Course
 
-==
+== Source
 
-[source,java]
+[source,java,highlight="2-3"]
 ----
 include::{sourcedir}/Test.java[]
 ----
+
+include::_fragment.adoc[]
