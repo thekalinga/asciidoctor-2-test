@@ -1,8 +1,10 @@
 = Nested Sibling
+// This is relative to src/docs/asciidoc derived from baseDirFollowsSourceDir()
+:rel-source-dir: nested/course/source
 
 == Source
 
 [source,java]
 ----
-include::{sourcedir}/Test.java[]
+include::{rel-source-dir}/Test.java[]
 ----

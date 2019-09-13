@@ -1,8 +1,9 @@
 = Asciidoc Fragment
+:rel-source-dir: ../
 
 == Source
 
 [source,java]
 ----
-include::{sourcedir}/Test.java[]
+include::{rel-source-dir}/Test.java[]
 ----

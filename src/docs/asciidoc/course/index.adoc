@@ -4,5 +4,5 @@
 
 [source,java]
 ----
-include::{sourcedir}/Test.java[]
+include::course/source/Test.java[]
 ----
