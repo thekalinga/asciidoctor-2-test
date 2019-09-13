@@ -1,8 +1,25 @@
 = Course
+:curr-dir-ref: course
+include::_common.adoc[]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis ultricies tortor, ac scelerisque quam. Suspendisse hendrerit nibh neque, sed porta sem lobortis ut. Phasellus consectetur vestibulum mattis. Proin ut bibendum nulla, non mattis lacus. Curabitur et vehicula libero. Quisque ipsum nulla, laoreet nec vehicula faucibus, malesuada a dolor. Quisque sem massa, condimentum sed sapien eu, pellentesque condimentum quam. Integer lobortis est ut efficitur imperdiet. Etiam purus sem, mattis quis tincidunt a, consequat a ex. Duis facilisis maximus libero, non molestie lorem dignissim sed. Suspendisse vel pulvinar massa. Nullam id nisi tincidunt, blandit ligula et, egestas nisi.
 
 == Source
 
-[source,java]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis ultricies tortor, ac scelerisque quam. Suspendisse hendrerit nibh neque, sed porta sem lobortis ut. Phasellus consectetur vestibulum mattis. Proin ut bibendum nulla, non mattis lacus. Curabitur et vehicula libero. Quisque ipsum nulla, laoreet nec vehicula faucibus, malesuada a dolor. Quisque sem massa, condimentum sed sapien eu, pellentesque condimentum quam. Integer lobortis est ut efficitur imperdiet. Etiam purus sem, mattis quis tincidunt a, consequat a ex. Duis facilisis maximus libero, non molestie lorem dignissim sed. Suspendisse vel pulvinar massa. Nullam id nisi tincidunt, blandit ligula et, egestas nisi.
+
+[source,java,highlight="2..3"]
 ----
-include::course/source/Test.java[]
+include::{code-snippet-dir}/Test.java[]
 ----
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis ultricies tortor, ac scelerisque quam. Suspendisse hendrerit nibh neque, sed porta sem lobortis ut. Phasellus consectetur vestibulum mattis. Proin ut bibendum nulla, non mattis lacus. Curabitur et vehicula libero. Quisque ipsum nulla, laoreet nec vehicula faucibus, malesuada a dolor. Quisque sem massa, condimentum sed sapien eu, pellentesque condimentum quam. Integer lobortis est ut efficitur imperdiet. Etiam purus sem, mattis quis tincidunt a, consequat a ex. Duis facilisis maximus libero, non molestie lorem dignissim sed. Suspendisse vel pulvinar massa. Nullam id nisi tincidunt, blandit ligula et, egestas nisi.
+
+== Image
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis ultricies tortor, ac scelerisque quam. Suspendisse hendrerit nibh neque, sed porta sem lobortis ut. Phasellus consectetur vestibulum mattis. Proin ut bibendum nulla, non mattis lacus. Curabitur et vehicula libero. Quisque ipsum nulla, laoreet nec vehicula faucibus, malesuada a dolor. Quisque sem massa, condimentum sed sapien eu, pellentesque condimentum quam. Integer lobortis est ut efficitur imperdiet. Etiam purus sem, mattis quis tincidunt a, consequat a ex. Duis facilisis maximus libero, non molestie lorem dignissim sed. Suspendisse vel pulvinar massa. Nullam id nisi tincidunt, blandit ligula et, egestas nisi.
+
+image::{images-dir}/sample.png[Sample Image]
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis ultricies tortor, ac scelerisque quam. Suspendisse hendrerit nibh neque, sed porta sem lobortis ut. Phasellus consectetur vestibulum mattis. Proin ut bibendum nulla, non mattis lacus. Curabitur et vehicula libero. Quisque ipsum nulla, laoreet nec vehicula faucibus, malesuada a dolor. Quisque sem massa, condimentum sed sapien eu, pellentesque condimentum quam. Integer lobortis est ut efficitur imperdiet. Etiam purus sem, mattis quis tincidunt a, consequat a ex. Duis facilisis maximus libero, non molestie lorem dignissim sed. Suspendisse vel pulvinar massa. Nullam id nisi tincidunt, blandit ligula et, egestas nisi.
+

@@ -1,0 +1,8 @@
+== Asciidoc Fragment
+
+=== Source
+
+[source,java]
+----
+include::../{code-snippet-dirname}/Test.java[]
+----

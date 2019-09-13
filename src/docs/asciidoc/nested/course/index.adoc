@@ -1,12 +1,12 @@
 = Nested Course
-// This is relative to src/docs/asciidoc derived from baseDirFollowsSourceDir()
-:rel-source-dir: nested/course/source
+:curr-dir-ref: nested/course
+include::_common.adoc[]
 
 == Source
 
-[source,java,highlight="2-3"]
+[source,java]
 ----
-include::{rel-source-dir}/Test.java[]
+include::{code-snippet-dir}/Test.java[]
 ----
 
-include::_fragment.adoc[]
+include::{adoc-fragment-dir}/_fragment.adoc[]
